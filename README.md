@@ -1,16 +1,5 @@
 # 피땀멜론 최종보고서
 
-Develop:  #Python
-상태: 완료
-이해관계자: 전명운, Hyerin Kim, 김현, 이규림
-최종 편집일시: 2021년 7월 23일 오후 1:54
-
-### Github Link
-
----
-
-[JeonMyengUn/KDT_Project](https://github.com/JeonMyengUn/KDT_Project)
-
 ## 🍈 개요
 
 ---
