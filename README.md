@@ -1,5 +1,10 @@
 # 피땀멜론 최종보고서
 
+|컬럼|내용|
+|--|--|
+|Github|[전명운](https://github.com/JeonMyengUn), [김혜린](https://github.com/KimHyerin25), [이규림](https://github.com/gyuuzzang), [김현]()|
+|Develop|#Python|
+
 ## 🍈 개요
 
 ---
